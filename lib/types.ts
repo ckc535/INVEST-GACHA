@@ -15,6 +15,7 @@ export interface UserPet {
   targetY: number
   direction: string
   mood: string
+  
 }
 
 export interface WalletState {
